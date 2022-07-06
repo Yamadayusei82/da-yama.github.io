@@ -1,7 +1,7 @@
 <!-- ヘッダー -->
 function header(){
     $.ajax({
-        url: '/header.html',
+        url: '/blob/main/header.html',
         cache: false,
         async: false,
         dataType: 'html',
@@ -14,7 +14,7 @@ function header(){
 <!-- フッター -->
 function footer(){
     $.ajax({
-        url: '/footer.html',
+        url: '/blob/main/footer.html',
         cache: false,
         async: false,
         dataType: 'html',
