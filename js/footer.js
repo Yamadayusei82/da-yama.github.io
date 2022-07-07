@@ -1,9 +1,11 @@
 document.write('\
-<!DOCTYPE html>\
+<html lang="ja">\
+<head>\
 <link rel="stylesheet" href="css/style.css">\
 <script src="js/openclose.js"></script>\
 <script src="js/fixmenu_pagetop.js"></script>\
 <script src="js/ddmenu_min.js"></script>\
+</head>\
 
 <footer>\
 
