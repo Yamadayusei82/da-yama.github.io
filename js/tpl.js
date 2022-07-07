@@ -1,3 +1,3 @@
 document.write('\
-<div class="header">ヘッダ</div>
-               ');
+<div class="header">ヘッダ</div>\
+');
