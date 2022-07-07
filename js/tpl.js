@@ -1,5 +1,5 @@
 document.write('
-<div class="header">ヘッダー</div>
+<div class="header">ヘッダ</div>
 <html lang="ja">
 <head>
 <link rel="stylesheet" href="css/style.css">
